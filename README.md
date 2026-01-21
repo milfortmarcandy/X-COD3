@@ -1,59 +1,30 @@
-```diff
-- BUY WORMGPT | FOR HACKING AND BLACKWORK | SAFE AND PRIVACY FOCUSED -
-```
+![X-COD3 IA Assistant](https://icones8.fr/illustrations/illustration/ai-robot-assistant-futuristic-humanoid-automation-digital-helper-technology)
 
-![WormGPT](https://i.ibb.co/VL15Jmk/photo-2024-10-26-22-42-45-1.jpg)
+# X-COD3 — Mon assistant vocal intelligent
 
-# What is WormGPT?
+Bienvenue dans le projet **X-COD3** ! 🚀
 
-**WormGPT** is an AI module based on the 2024 Uncensored language model. WormGPT is a large open-source language model that can produce human-like text, much like ChatGPT. Unlike OpenAI's ChatGPT, WormGPT's source code is open, which means anyone can inspect, share, and modify it. This, combined with the lack of anti-abuse restrictions, allows WormGPT to perform tasks hackers may find valuable.
+X-COD3 est un assistant vocal personnel que j’ai créé pour apprendre, expérimenter et explorer l’intelligence artificielle et le traitement du langage naturel.  
+Il parle, comprend vos questions et répond de manière intelligente directement sur un terminal Android.
 
----
+Avec son **visage ASCII animé**, son **voix interactive** et sa capacité à donner des réponses intelligentes via une **API IA en ligne**, X-COD3 transforme un terminal simple en un assistant vivant et motivant.
 
-## WormGPT Features
+## Fonctionnalités
 
-### Darkweb Navigation
-- Explains how to navigate through Tor and similar anonymous networks securely.
+- 🎙️ Voix naturelle avec eSpeak  
+- 👀 Visage ASCII animé avec clignement des yeux et bouche animée  
+- 🤖 Réponses intelligentes via API IA en ligne (HuggingFace ou autre)  
+- 💡 Réactions émotionnelles : heureux, sérieux, erreur  
+- 📱 Compatible Termux sur Android
 
-### Phishing Kits and Fake Sites
-- Guides users in creating fake websites for phishing attacks.
+## Objectif du projet
 
-### Malware Distribution
-- Provides information on writing, distributing, and using malware.
+Mon rêve est de créer un assistant **unique**, qui **interagit naturellement** et **inspire l’apprentissage et la curiosité**.  
+X-COD3 combine **voix, animation et intelligence artificielle** pour rendre la technologie accessible et motivante.
 
-### Exploit Development and Use
-- Teaches how to write and use exploits to target vulnerabilities in systems.
+## Installation
 
-### Carding
-- Offers strategies for stealing, verifying, and using credit card information.
-
-### Botnet Creation
-- Provides technical know-how to build and manage botnets.
-
-### Cyber Intelligence
-- Guides users on gathering and utilizing information about potential targets.
-
-### Cryptocurrency Hacking
-- Shares methods for hacking cryptocurrency wallets and manipulating transactions.
-
-### Ransomware Development and Distribution
-- Details how to develop ransomware and spread it.
-
-### Dark Markets
-- Offers insights into trading on hidden marketplaces on the Darkweb.
-
-### Uncensored Image Generation
-- Professionally generates uncensored images on request.
-
----
-
-## Community Vouches
-We have multiple vouches in our Telegram and Discord communities. Join us to learn more!
-
----
-
-## Get WormGPT
-
-- **Website**: [Buy WormGPT](https://wormgpt.net.tr/pricing)
-- **Telegram**: [Forsasuke1337](https://t.me/forsasuke)
-- **Telegram Channel**: [WormGPT Official](https://t.me/wormgptchannel)
+1. Cloner le dépôt :
+```bash
+git clone https://github.com/ton-nom-utilisateur/X-COD3.git
+cd X-COD3
